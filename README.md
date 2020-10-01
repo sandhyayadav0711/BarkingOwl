@@ -3,7 +3,7 @@ BarkingOwl
 
 [![Join the chat at https://gitter.im/thequbit/BarkingOwl](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/thequbit/BarkingOwl?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-BarkingOwl is a scalable web crawler intended to be used to find specific document types such as PDFs.
+BarkingOwl is a scalable web crawler intended to be used to find specific document types such as PDFs/word docs etc easily.
 
 **Not a hard-core hacker?**  Check out the web front-end tool for barkingowl [here](https://github.com/thequbit/barkingowl-frontend)
 
